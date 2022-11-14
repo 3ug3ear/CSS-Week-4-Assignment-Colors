@@ -47,3 +47,7 @@ div {
     max-height: fit-content;
     max-width: fit-content;
 }
+header {
+    padding-top: 15px;
+    border: 2px solid azure
+}
